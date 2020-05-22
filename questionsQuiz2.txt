@@ -1,0 +1,36 @@
+Match the numbers
+One
+1
+Two
+2
+Three
+3
+Match the fruits to the colour
+Banana
+Yellow
+Cherry
+Red
+Lime
+Green
+Match the face to the emotion
+Happy
+:)
+Sad
+:(
+Shocked
+:O
+Match the clothing to the body part
+Glove
+Hand
+Shoe
+Foot
+Trousers
+Legs
+Match the animal to the number of legs
+Human
+2
+Spider
+8
+Dog
+4
+
